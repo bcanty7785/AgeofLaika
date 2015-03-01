@@ -13,6 +13,7 @@
 		D3ED21951A9E63CF00A253F9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3ED21941A9E63CF00A253F9 /* Images.xcassets */; };
 		D3ED21981A9E63CF00A253F9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3ED21961A9E63CF00A253F9 /* LaunchScreen.xib */; };
 		D3ED21A41A9E63D000A253F9 /* Age_of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3ED21A31A9E63D000A253F9 /* Age_of_LaikaTests.swift */; };
+		D3ED21AE1A9E665400A253F9 /* Laika-Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3ED21AD1A9E665400A253F9 /* Laika-Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D3ED219D1A9E63D000A253F9 /* Age of LaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age of LaikaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3ED21A21A9E63D000A253F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3ED21A31A9E63D000A253F9 /* Age_of_LaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_of_LaikaTests.swift; sourceTree = "<group>"; };
+		D3ED21AD1A9E665400A253F9 /* Laika-Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Laika-Stamp.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				D3ED218D1A9E63CF00A253F9 /* AppDelegate.swift */,
 				D3ED218F1A9E63CF00A253F9 /* ViewController.swift */,
 				D3ED21911A9E63CF00A253F9 /* Main.storyboard */,
+				D3ED21AD1A9E665400A253F9 /* Laika-Stamp.jpg */,
 				D3ED21941A9E63CF00A253F9 /* Images.xcassets */,
 				D3ED21961A9E63CF00A253F9 /* LaunchScreen.xib */,
 				D3ED218B1A9E63CF00A253F9 /* Supporting Files */,
@@ -194,6 +197,7 @@
 			files = (
 				D3ED21931A9E63CF00A253F9 /* Main.storyboard in Resources */,
 				D3ED21981A9E63CF00A253F9 /* LaunchScreen.xib in Resources */,
+				D3ED21AE1A9E665400A253F9 /* Laika-Stamp.jpg in Resources */,
 				D3ED21951A9E63CF00A253F9 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
